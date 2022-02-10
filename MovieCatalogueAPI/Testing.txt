@@ -1,0 +1,43 @@
+Menampilkan data MOVIE
+
+Memastikan rv_movie dalam keadaan tampil
+Gulir rv_movie ke posisi data terakhir
+
+
+Menampilkan data TV SHOW
+
+Klik TabLayout dengan teks 'TV SHOW'
+Memastikan rv_tv_show dalam keadaan tampil
+Gulir rv_tv_show ke posisi data terakhir
+
+
+Menampilkan data detail MOVIE
+
+Memberi tindakan klik pada data pertama (0) di rv_movie
+Memastikan TextView untuk title tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk movie length tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk genre tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk score tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk rating tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk release date tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk description/overview tampil sesuai dengan yang diharapkan.
+Memastikan ImageView untuk cover tampil sesuai dengan yang diharapkan.
+Memastikan ImageView untuk poster tampil sesuai dengan yang diharapkan.
+
+
+Menampilkan data detail TV SHOW
+
+Klik TabLayout dengan teks 'TV SHOW'
+Memberi tindakan klik pada data pertama (0) di rv_tv_show
+Memastikan TextView untuk title tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk movie length tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk genre tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk score tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk rating tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk release date tampil sesuai dengan yang diharapkan.
+Memastikan TextView untuk description/overview tampil sesuai dengan yang diharapkan.
+Memastikan ImageView untuk cover tampil sesuai dengan yang diharapkan.
+Memastikan ImageView untuk poster tampil sesuai dengan yang diharapkan.
+
+
+https://dood.sh/d/et5id1surgq8

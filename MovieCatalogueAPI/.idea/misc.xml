@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio Save/MovieCatalogueAPI/app/src/main/res/drawable/ic_round_arrow_back_ios_new_24.xml" value="0.28229166666666666" />
+        <entry key="..\:/Android Studio Save/MovieCatalogueAPI/app/src/main/res/drawable/rounded_box_black_transparent.xml" value="0.28229166666666666" />
+        <entry key="..\:/Android Studio Save/MovieCatalogueAPI/app/src/main/res/drawable/splash_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android Studio Save/MovieCatalogueAPI/app/src/main/res/layout/activity_detail.xml" value="0.17831813576494426" />
+        <entry key="..\:/Android Studio Save/MovieCatalogueAPI/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Android Studio Save/MovieCatalogueAPI/app/src/main/res/layout/fragment_movie.xml" value="0.26614583333333336" />
+        <entry key="..\:/Android Studio Save/MovieCatalogueAPI/app/src/main/res/layout/fragment_tv_show.xml" value="0.26614583333333336" />
+        <entry key="..\:/Android Studio Save/MovieCatalogueAPI/app/src/main/res/layout/items_list_movie_tv.xml" value="0.26614583333333336" />
+        <entry key="..\:/Android Studio Save/MovieCatalogueAPI/app/src/main/res/layout/layout_detail_contents.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14_PREVIEW" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
